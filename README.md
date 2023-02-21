@@ -13,7 +13,6 @@ Go to the  Amazon Lex .NET ChatBot Demo Site and play with this bot live: [Order
 
 <img src="https://s3.us-east-2.amazonaws.com/aws-blog-tew-posts/ChatBot-Pic2-small.png"/>
 
-
 ----------
 
 ## **AWS Services**
