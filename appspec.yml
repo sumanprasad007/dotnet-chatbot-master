@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: dotnetLexChatBot/build_output
-    destination: /opt/codedeploy-agent/deployment-root/119caa4a-0416-4773-83f1-200b1698e3d7/d-CW8BLA2WM/deployment-archive/
+    destination:  /home/ubuntu/aspnetlexchatbot
   - source: scripts/virtualhost.conf
     destination: /home/ubuntu/aspnetlexchatbot
 hooks:
