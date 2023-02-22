@@ -10,6 +10,6 @@ phases:
       - dotnet publish -c release -o ./build_output dotnetLexChatBot/dotnetLexChatBot.csproj
 artifacts:
   files:
-    - '**/*'
+    - deployment-archive/dotnetLexChatBot/**/*
     - scripts/**/*
     - appspec.yml
